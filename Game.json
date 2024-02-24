@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Pronghorn",
+    "image": "https://img.freepik.com/premium-photo/determined-pronghorn-antelope-sprinting_155807-31168.jpg?w=740"
+  },
+
+  {
+    "name": "Cat",
+    "image": "https://img.freepik.com/free-photo/cute-kitten-sitting-table-looking-camera-with-curiosity-generated-by-artificial-intelligence_188544-150695.jpg?t=st=1708752512~exp=1708756112~hmac=89d645a38ecc8b9d4696cfa60c01f6dfe34b7ce3c816e1155addd4803ab46124&w=826"
+  },
+  {
+    "name": "Dog",
+    "image": "https://img.freepik.com/free-photo/lone-beagle-waits-patiently-leash-outside_60438-3651.jpg?t=st=1708752548~exp=1708756148~hmac=45ee47e8ca314b85f9d63cba28fb3084e6fd5f5391b3db478dda200212494bdf&w=826"
+  },
+  {
+    "name": "Opossum",
+    "image": "https://img.freepik.com/premium-photo/opossum-tree_1048944-1598976.jpg?w=740"
+  },
+  {
+    "name": "Otter",
+    "image": "https://images.pexels.com/photos/16171084/pexels-photo-16171084/free-photo-of-otter-lying-on-rocks.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "name": "Rabbit",
+    "image": "https://images.pexels.com/photos/255387/pexels-photo-255387.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "name": "Rhinoceros",
+    "image": "https://img.freepik.com/free-photo/seal-beach-dune-island-near-helgoland_475641-192.jpg?t=st=1708752852~exp=1708756452~hmac=65b58bc79cee04d15a8d73a1fe5532b35cfe12c12b43e2e9f9ac8b064a152229&w=740"
+  },
+  {
+    "name": "Seal",
+    "image": "https://images.pexels.com/photos/568020/pexels-photo-568020.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "name": "Sheep",
+    "image": "https://images.pexels.com/photos/16200703/pexels-photo-16200703/free-photo-of-close-up-of-panda.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "name": "Panda",
+    "image": "https://img.freepik.com/free-photo/portrait-funny-chimpanzee-with-open-mouth-blurred-background-closeup_384344-5435.jpg?t=st=1708753447~exp=1708757047~hmac=2f4b722a323592edaf6443a3e3ca8f106465ca36e033472136cbf77dc4c76f21&w=826"
+  },
+  {
+    "name": "Monkey",
+    "image": "https://wallpapers.com/images/hd/monkey-pictures-8h0v87o9km8bz65x.jpg"
+  },
+  {
+    "name": "Dolphin",
+    "image": "https://img.freepik.com/free-photo/animal-illustration-playful-dolphin-jumping-blue-water-generative-ai_188544-9517.jpg?t=st=1708753487~exp=1708757087~hmac=792989ae09890cf041d53ca0bb81963e43fde30cebad7d08a88459ec23703590&w=826"
+  }
+]

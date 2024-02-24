@@ -1,0 +1,105 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: black;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: white;
+}
+
+.main {
+  padding: 15px;
+}
+
+.GameBoard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.GameImages {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  padding: 15px;
+  border-radius: 10px;
+  background-image: radial-gradient(rgb(10, 80, 80), black);
+  box-shadow: 0 0 5px rgb(65, 206, 206), 0 0 25px rgb(65, 206, 206);
+}
+
+.img {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+}
+
+.controller {
+  display: flex;
+  justify-content: space-between;
+}
+
+.start {
+  border: 2px solid rgb(255, 255, 255);
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-weight: bold;
+  transition: 0.5s;
+  padding: 5px 15px;
+  border-radius: 2px;
+}
+
+ .select option {
+  color: aqua;
+ }
+
+.start:hover {
+  -webkit-box-reflect: below 1px linear-gradient(transparent, black);
+  background-color: rgb(43, 153, 153);
+  text-shadow: 2px 2px 2px black;
+  box-shadow: 0 0 5px rgb(65, 206, 206), 0 0 25px rgb(65, 206, 206),
+    0 0 50px rgb(65, 206, 206);
+}
+
+.Score {
+  border: 2px solid rgb(255, 255, 255);
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-weight: bold;
+  transition: 0.5s;
+  padding: 5px 15px;
+  border-radius: 2px;
+}
+
+.Score:hover {
+  -webkit-box-reflect: below 1px linear-gradient(transparent, black);
+  background-color: rgb(43, 153, 153);
+  text-shadow: 2px 2px 2px black;
+  box-shadow: 0 0 5px rgb(65, 206, 206), 0 0 25px rgb(65, 206, 206),
+    0 0 50px rgb(65, 206, 206);
+}
+
+.select {
+  border: 2px solid rgb(255, 255, 255);
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-weight: bold;
+  transition: 0.5s;
+  padding: 5px 15px;
+  border-radius: 2px;
+}
+.select input {
+  background-color: rgb(43, 153, 153);
+}
+
+.select:hover {
+  -webkit-box-reflect: below 1px linear-gradient(transparent, black);
+  background-color: rgb(43, 153, 153);
+  text-shadow: 2px 2px 2px black;
+  box-shadow: 0 0 5px rgb(65, 206, 206), 0 0 25px rgb(65, 206, 206),
+    0 0 50px rgb(65, 206, 206);
+}
